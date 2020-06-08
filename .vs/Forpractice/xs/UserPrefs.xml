@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B49D47DC-4A1F-A685-F816-7717B2F0B5D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/enemy.cs">
+    <Files>
+      <File FileName="Assets/enemy.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Forpractice" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="enemy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f8027e0-9793-4af4-89d2-a9a55b2ca1fb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
